@@ -89,6 +89,8 @@ S3 is used for object storage like files and backups.
 
 ![RDS](rds-database-available.png)
 
+### S3 object storage
+<img src="s3-bucket-object.png" width="500" alt="S3 Bucket"/>
 
 # How It Works
 
