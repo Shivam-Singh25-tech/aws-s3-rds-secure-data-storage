@@ -1,7 +1,7 @@
 # aws-s3-rds-secure-data-storage
 Secure data storage using AWS S3 and RDS
 
-# AWS S3 + RDS Secure Data Storage 🚀
+# AWS S3 + RDS Secure Data Storage 
 
 This project demonstrates a secure cloud architecture using AWS services including EC2, S3, and RDS to store and manage data efficiently.
 
@@ -92,8 +92,6 @@ S3 is used for object storage like files and backups.
 ### S3 Bucket Object
 
 ![S3](s3-bucket-object.png)
-
----
 
 # How It Works
 
